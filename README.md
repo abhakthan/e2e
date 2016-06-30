@@ -3,7 +3,8 @@
 ### Getting Started
 npm install
 
+#### Get the webdriver
 node ./node_modules/protractor/bin/webdriver-manager update
 
-node ./node_modules/protractor/bin/protractor conf.js
+npm start
 
